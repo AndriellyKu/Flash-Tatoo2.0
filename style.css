@@ -4,7 +4,7 @@
     user-select: none;
     -webkit-user-drag: none;
     cursor: url("img/maquina1.png"), auto;
-    cursor: url("img/maquina1.png") pointer;
+    cursor: url("img/maquina1.png"), pointer;
     
 }
 
